@@ -1,1 +1,3 @@
-dockurr/windows
+justsong/one-api:latest
+redis:latest
+mysql:8.2.0
