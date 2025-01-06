@@ -1,1 +1,1 @@
-openmmlab/lmdeploy:latest
+productiveops/dokemon-agent:latest
