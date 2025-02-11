@@ -1,1 +1,2 @@
-lmsysorg/sglang:latest
+docker.io/searxng/searxng:latest
+node:18-slim
