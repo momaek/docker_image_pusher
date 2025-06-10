@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.4.post1-cu125
+nvcr.io/nvidia/tensorrt-llm/release:0.21.0rc0
