@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tensorrt-llm/release:1.1.0rc1 
+lmsysorg/sglang:latest
