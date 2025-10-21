@@ -1,2 +1,1 @@
-vllm/vllm-openai:nightly-c5c8f5ea59f060f68b2257bb4d2066a264fc865c
-vllm/vllm-openai:v0.11.0
+vllm/vllm-openai:v0.8.5.post1
