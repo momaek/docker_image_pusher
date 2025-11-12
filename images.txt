@@ -1,3 +1,2 @@
-nginx:alpine
-node:18-alpine
-nvcr.io/nvidia/pytorch:25.09-py3
+vllm/vllm-openai:gptoss
+vllm/vllm-openai:nightly-e605e8e3233f895340f46665f93ab37b307491aa
