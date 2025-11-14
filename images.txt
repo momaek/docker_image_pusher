@@ -1,2 +1,1 @@
-vllm/vllm-openai:gptoss
-vllm/vllm-openai:nightly-e605e8e3233f895340f46665f93ab37b307491aa
+vllm/vllm-openai:nightly-0b25498990f01ea2553c02731d6e2ce2d550156a
