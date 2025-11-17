@@ -1,1 +1,2 @@
-vllm/vllm-openai:nightly-0b25498990f01ea2553c02731d6e2ce2d550156a
+lmsysorg/sglang:v0.5.5.post3-cu129-amd64
+lmsysorg/sglang:v0.5.5.post3
