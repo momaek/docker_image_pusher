@@ -1,1 +1,1 @@
-lmsysorg/sglang:dev-x86
+lmsysorg/sglang:nightly-dev-20251124-4683e244
