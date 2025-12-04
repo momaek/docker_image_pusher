@@ -1,2 +1,1 @@
-lmsysorg/sglang:v0.5.6-cu129-amd64
-vllm/vllm-openai:nightly-653591d5e73b34ffd9186c61e964474bcc4b7c80
+swebench/sweb.base.x86_64:latest
