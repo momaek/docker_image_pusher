@@ -1,1 +1,4 @@
-vllm/vllm-openai:nightly-8aaa81b35f96a3b5c56d3dccf58f48129ee34126
+swebench/sweb.eval.x86_64.django_1776_django-11790:latest
+swebench/sweb.eval.x86_64.django_1776_django-11815:latest
+swebench/sweb.eval.x86_64.django_1776_django-11848:latest
+swebench/sweb.eval.x86_64.django_1776_django-11880:latest
