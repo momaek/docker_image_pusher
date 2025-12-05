@@ -1,1 +1,1 @@
-swebench/sweb.base.x86_64:latest
+vllm/vllm-openai:nightly-8aaa81b35f96a3b5c56d3dccf58f48129ee34126
