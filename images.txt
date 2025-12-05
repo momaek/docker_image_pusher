@@ -1,4 +1,1 @@
-swebench/sweb.eval.x86_64.django_1776_django-11790:latest
-swebench/sweb.eval.x86_64.django_1776_django-11815:latest
-swebench/sweb.eval.x86_64.django_1776_django-11848:latest
-swebench/sweb.eval.x86_64.django_1776_django-11880:latest
+swebench/sweb.eval.x86_64.django_1776_django-11885:latest
