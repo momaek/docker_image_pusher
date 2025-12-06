@@ -1,1 +1,1 @@
-swebench/sweb.eval.x86_64.django_1776_django-11885:latest
+vllm/vllm-openai:nightly-d698bb382db95af6b8836936eb0dfae71c791d11
