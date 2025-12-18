@@ -1,1 +1,1 @@
-lmsysorg/sglang:nightly-dev-20251210-0c63fb94
+lmsysorg/sglang:nightly-dev-20251218-d20699a3
