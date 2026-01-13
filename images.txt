@@ -1,1 +1,2 @@
-qdrant/qdrant:latest
+vllm/vllm-openai:nightly-11b6af5280d6d6dfb8953af16e67b25f819b3be9
+lmsysorg/sglang:nightly-dev-20260113-1f0e3d7f
