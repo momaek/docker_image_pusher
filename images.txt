@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly-4753f3bf69a2b975361afa7c49e8d948047613f6
+nvidia/cuda:12.9.0-runtime-ubuntu22.04
