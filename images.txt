@@ -1,1 +1,1 @@
-lmsysorg/sglang:nightly-dev-cu13-20260203-28e23407
+vllm/vllm-openai:nightly-7c233dbb36262b5106f46eb21a6324d15e424005
