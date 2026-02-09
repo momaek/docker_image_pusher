@@ -1,3 +1,1 @@
-vllm/vllm-openai:nightly-7c233dbb36262b5106f46eb21a6324d15e424005
-vllm/vllm-openai:v0.15.1-cu130
-vllm/vllm-openai:v0.15.1
+lmsysorg/sglang:nightly-dev-20260209-bf89cc38
