@@ -1,1 +1,2 @@
-lmsysorg/sglang:v0.5.9
+vllm/vllm-openai:glm5
+vllm/vllm-openai:nightly-8fae54faff485e446dc8d1a700417f07659ef89e
