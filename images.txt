@@ -1,2 +1,1 @@
-vllm/vllm-openai:glm5
-vllm/vllm-openai:nightly-8fae54faff485e446dc8d1a700417f07659ef89e
+vllm/vllm-openai:nightly-4a9c07a0a2b8308a045476b48be29e37c349274b
