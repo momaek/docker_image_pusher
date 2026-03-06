@@ -1,2 +1,2 @@
-lmsysorg/sglang:glm5-hopper-patched
-lmsysorg/sglang:glm5-blackwell-patched
+lmsysorg/sglang:nightly-dev-cu13-20260306-9ebffef1
+lmsysorg/sglang:nightly-dev-20260306-9ebffef1
