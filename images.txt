@@ -1,1 +1,1 @@
-lmsysorg/sglang:nightly-dev-20260407-5cc246e0
+dreamacro/clash:latest
