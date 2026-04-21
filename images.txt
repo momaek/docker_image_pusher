@@ -1,1 +1,2 @@
-bitnami/redis:latest
+lmsysorg/sglang:nightly-dev-20260420-05e4eecf
+lmsysorg/sglang:nightly-dev-cu13-20260420-05e4eecf
