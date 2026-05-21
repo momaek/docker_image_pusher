@@ -1,2 +1,1 @@
-vllm/vllm-openai:v0.21.0-cu129-ubuntu2404
-vllm/vllm-openai:v0.21.0-ubuntu2404
+lmsysorg/sglang:v0.5.12-cu130
