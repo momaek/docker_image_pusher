@@ -1,2 +1,1 @@
-lmsysorg/sglang:v0.5.13.post1-runtime
-lmsysorg/sglang:nightly-dev-20260622-6779ca8d
+lmsysorg/sglang:v0.5.13.post1-cu129-runtime
